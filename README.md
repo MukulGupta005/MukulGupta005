@@ -24,6 +24,6 @@ As a Java full-stack developer, I handle various tasks and responsibilities, inc
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
-[![Profile Visits](https://visitcount.itsvg.in/api?id=MukulGupta005&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MukulGupta005&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 [![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg)](https://github.com/MukulGupta005)
