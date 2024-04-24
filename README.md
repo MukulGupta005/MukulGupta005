@@ -3,7 +3,7 @@ As a Java  developer, my main duty would be to design, develop, and maintain web
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukuls_tg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukulgupta007) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)](https://twitter.com/MukulGu24384329)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukuls_tg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukulgupta007) 
 
 
 # 💻 Tech Stack:
